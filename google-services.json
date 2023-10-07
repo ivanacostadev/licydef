@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158652544414",
+    "project_id": "licy-f9959",
+    "storage_bucket": "licy-f9959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158652544414:android:83c0faa0ceadb40077928f",
+        "android_client_info": {
+          "package_name": "com.ivncso93.Licy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158652544414-1a8u1tpof3m1oof789q1e94hnqc3nl0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWddFZP0dOXbEX-iRgOzm2w3-dDjIEnlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158652544414-1a8u1tpof3m1oof789q1e94hnqc3nl0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
